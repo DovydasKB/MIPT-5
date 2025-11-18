@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MIPT_5</string>
+    <string name="hint">Filter by ticker (e.g. AMG1L)</string>
+</resources>
